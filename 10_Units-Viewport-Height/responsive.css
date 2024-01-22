@@ -1,0 +1,17 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 80vw;
+    padding: 1em;
+    margin: 1em;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 80vw;
+    height: 70vh;
+}

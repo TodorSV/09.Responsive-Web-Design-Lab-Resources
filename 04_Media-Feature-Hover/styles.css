@@ -1,0 +1,6 @@
+/* Use media hover to change code:hover to change color to white and background to black. */
+
+code:hover {
+  color: white;
+  background: black;
+}
